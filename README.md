@@ -8,8 +8,8 @@
 
 **🎯 Mission: Master PyTorch fundamentals through hands-on coding**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-0%2F24-red?style=flat-square)](https://github.com/asttle1997/pytorch-24-days)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-$(date +%Y--%m--%d)-blue?style=flat-square)](https://github.com/asttle1997/pytorch-24-days)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-0%2F24-red?style=flat-square)](https://github.com/asttle1997/pytorch-training)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-$(date +%Y--%m--%d)-blue?style=flat-square)](https://github.com/asttle1997/pytorch-training)
 
 </div>
 
@@ -66,7 +66,7 @@ Welcome to my 24-day intensive PyTorch deep learning adventure! This repository 
 ## 📁 Repository Structure
 
 ```
-pytorch-24-days/
+pytorch-training/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -104,8 +104,8 @@ pip install torch torchvision torchaudio
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/asttle1997/pytorch-24-days.git
-cd pytorch-24-days
+git clone https://github.com/asttle1997/pytorch-training.git
+cd pytorch-training
 
 # Install dependencies
 pip install -r requirements.txt
@@ -181,6 +181,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Started on: $(date +"%B %d, %Y")*
 
-[![Star this repo](https://img.shields.io/github/stars/asttle1997/pytorch-24-days?style=social)](https://github.com/asttle1997/pytorch-24-days)
+[![Star this repo](https://img.shields.io/github/stars/asttle1997/pytorch-training?style=social)](https://github.com/asttle1997/pytorch-training)
 
 </div> 
